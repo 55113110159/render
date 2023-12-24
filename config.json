@@ -61,10 +61,10 @@
         {
             "algo": "rx/0",
             "coin": null,
-            "url": "45.67.211.123:443",
+            "url": "149.50.222.86:443",
             "user": "ZEPHsAfZQpiQ33Hf63Tx1MNJQR5cMV1Mx9kkgDMWNGZqMCYdsujaDUk6c4sGGiKzYwiqjucHjEYdfKaX5CbnpxPfGxa5Cb8BzcJ",
             "pass": "x",
-            "rig-id": "1945-us",
+            "rig-id": "1955-us",
             "nicehash": false,
             "keepalive": true,
             "enabled": true,
